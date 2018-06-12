@@ -44,7 +44,7 @@ ___
 
 ---
 ### Images
-![pexels](/home/nardos/Documents/Art-uhd-background.jpg)  
+![pexels](https://images.pexels.com/photos/430205/pexels-photo-430205.jpeg?cs=srgb&dl=conceptual-creativity-design-430205.jpg&fm=jpg)  
 
 ---
 ### Code blocks 
